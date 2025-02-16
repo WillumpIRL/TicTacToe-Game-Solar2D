@@ -1,7 +1,5 @@
--- Created by William James 10578252
--- On Campus Joondalup ECU
--- Professor Mike Johnstone
--- Due Date Due Friday 4th of October 2024 14:00
+-- Created by William James 
+--Final Product Created 4th of October 2024
 
 -- Import the Composer library to manage scenes
 local composer = require("composer")
